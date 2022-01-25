@@ -30,6 +30,8 @@ In this program I have implement 6 workers (virtual devices) that take the MNIST
 
 ![](images/train.png)
 
+- Model accuray of untrained model and other 6 models are shown
+
 ### Results - 
 
 - Graph to showing accuracy of the 6 worker models in test set. 
