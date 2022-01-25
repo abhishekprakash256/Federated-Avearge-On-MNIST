@@ -28,7 +28,7 @@ In this program I have implement 6 workers (virtual devices) that take the MNIST
 
 ### Training 
 
-![](images/Screenshot from 2022-01-24 17-33-30.png)
+![](images/train.png)
 
 ### Results - 
 
