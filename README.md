@@ -26,7 +26,9 @@ In this program I have implement 6 workers (virtual devices) that take the MNIST
 
 
 
+### Training 
 
+![](images/algo.png)
 
 ### Results - 
 
