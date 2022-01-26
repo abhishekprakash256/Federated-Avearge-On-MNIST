@@ -28,7 +28,9 @@ cd Federated_avearge_on_MNIST/
 python3 federated_toy_model2.py 
 
 ```
+### Dependency
 
+- Check requirement.txt
    ### Illustration 
 
    ![](images/algo.png)
