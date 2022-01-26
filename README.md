@@ -18,7 +18,16 @@ In this program I have implement 6 workers (virtual devices) that take the MNIST
 
 4. The main model takes the average of these parameters and sets them as its  new weight parameters and passes them back to the nodes for the next  iteration.
 
-   
+### Installation 
+
+```bash
+git clone https://github.com/abhishekprakash256/Federated_avearge_on_MNIST
+
+cd Federated_avearge_on_MNIST/
+
+python3 federated_toy_model2.py 
+
+```
 
    ### Illustration 
 
